@@ -1,23 +1,22 @@
-const http = require("http");
-const url = require("url");
+const express = require("express");
+const app = express();
 const router = require("./routes/router");
-
 const morgan = require("morgan");
-const logger = morgan("combined");
+const logger = morgan("dev");
 
-const requestHandler = (req, res) => {
-  const parsedUrl = url.parse(req.url);
-  const func = router[parsedUrl.pathname] || router.default;
-
-  logger(req, res, () => func(req, res));
+const errorHandler = (err, req, res, next) => {
+  res.status(500).send("Error found: ", err);
 };
 
 const startServer = port => {
-  const server = http.createServer(requestHandler);
+  app
+    .use(logger)
+    .use("/", router)
+    .use(errorHandler);
 
-  server.listen(port, err => {
+  app.listen(port, err => {
     if (err) {
-      return console.log("smth goes wrong", err);
+      return console.log(err);
     }
     console.log(`server is listening on ${port}`);
   });
