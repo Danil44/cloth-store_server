@@ -1,0 +1,25 @@
+{
+  "name": "review_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node --inspect index.js",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danil44/review_nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danil44/review_nodeJS/issues"
+  },
+  "homepage": "https://github.com/Danil44/review_nodeJS#readme",
+  "dependencies": {
+    "async": "^3.0.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}

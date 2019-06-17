@@ -1,0 +1,81 @@
+[
+    {
+        "name": "adidas Originals RYV logo print hoodie in white",
+        "brand_name": "adidas",
+        "color": "white",
+        "about": "Soft sweatshirt fabric. Style and comfort – it's a lifestyle. Main: 100% Cotton.",
+        "material": {
+            "cotton": "100%"
+        },
+        "size_fit": "Model's height: 6'1”/185.5 cm; Model is wearing: Size Medium",
+        "brand": "With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.",
+        "price": "65.00",
+        "currency": "GBP"
+    },
+    {
+        "name": "Nike Running Dry Miler t-shirt in blue gradient",
+        "brand_name": "nike",
+        "color": "blue",
+        "about": "Nike Breathe fabric. Super-soft feel against the skin. Helps maintain a constant flow of air to keep you cool. Uses Nike Dri-FIT technology. Moves sweat away from the skin, then draws it out of the fabric to help speed up evaporation. Keeping you cool and dry in the process. Main: 100% Polyester.",
+        "material": {
+            "polyester": "100%"
+        },
+        "size_fit": "Model's height: 6'2”/188cm; Model is wearing: Size Medium",
+        "brand": "Get the most out of your runs with Nike Running’s range of activewear. Ace your base layer in thermal tops and leggings, or keep cool with moisture-managing Dri-FIT hoodies, shorts and T-shirts. Its trainers, smartphone armbands and silicone-grip gloves are stamped with reflective details for enhanced visibility on low-light runs.",
+        "price": "25.00",
+        "currency": "GBP"
+    },
+    {
+        "name": "ASOS DESIGN organic crew neck t-shirt with roll sleeve in green",
+        "brand_name": "asos",
+        "color": "yellow",
+        "about": "Soft jersey. Made from organic cotton. Grown with less water and no pesticides. It's a win-win, improving the environment for both wildlife and cotton farmers.",
+        "material": {
+            "organic_cotton": "100%"
+        },
+        "size_fit": "Model's height: 6'2”/188cm; Model is wearing: Size Medium",
+        "brand": "This is ASOS DESIGN – your go-to for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
+        "price": "6.00",
+        "currency": "GBP"
+    },
+    {
+        "name": "Levi's modern batwing logo camo print hoodie in green",
+        "brand_name": "levi's",
+        "color": "demitasse camo",
+        "about": "Soft-touch sweatshirt fabric. Style and comfort – it's a lifestyle. Body: 90% Cotton, 10% Polyester.",
+        "material": {
+            "cotton": "90%",
+            "polyester": "10%"
+        },
+        "size_fit": "Model's height: 185.5cm/6'1”/; Model is wearing: Size Medium",
+        "brand": "Since creating the first ever pair of blue jeans back in 1873, American label Levi's has gone on to become one of the world’s most iconic denim brands – but you already knew that. Today, its collection has expanded to include jeans in a range of cuts and washes, as well as shirts, T-shirts and jackets. Look out for the brand’s 501 Original jeans, for an all-American, all-you look.",
+        "price": "44.00",
+        "currency": "GBP"
+    },
+    {
+        "name": "boohooMAN oversized t-shirt with NYC print black",
+        "brand_name": "boohooMAN",
+        "color": "black",
+        "about": "Go-with-everything jersey. It's a soft all-rounder. Main: 100% Cotton.",
+        "material": {
+            "cotton": "100%"
+        },
+        "size_fit": "Model's height: 183cm/6'0”/; Model is wearing: Size Medium",
+        "brand": "Serving up the coolest transitional styles, boohooMAN is your go-to for new-season switch-ups. Give your staples an instant refresh with reworked outerwear and denim, or solve those layering dilemmas in longline tees and sweatshirts.",
+        "price": "44.00",
+        "currency": "GBP"
+    },
+    {
+        "name": "Tommy Hilfiger embroidered flag logo t-shirt in white",
+        "brand_name": "Tommy Hilfiger",
+        "color": "white",
+        "about": "Organic cotton. Tommy Hilfiger partners with the Better Cotton Initiative to improve cotton farming globally. This makes it better for farmers and the environment. BCI provides farming-practice training. It promotes things like water efficiency and reducing the most harmful chemicals",
+        "material": {
+            "organic_cotton": "100%"
+        },
+        "size_fit": "Model's height: 6'2”/188 cm; Model is wearing: Size Medium",
+        "brand": "Thomas Jacob Hilfiger founded his eponymous label Tommy Hilfiger in 1985, expanding the line to include clothing, accessories, luggage and fragrance. Known for his classic American outlook and signature 'preppy with a twist' aesthetic, Tommy Hilfiger's timeless red, white and blue logo is seen across an edit of accessories, sunglasses and underwear.",
+        "price": "35.00",
+        "currency": "GBP"
+    }
+]
